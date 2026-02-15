@@ -1,0 +1,9 @@
+.opencode/
+opencode.json
+AGENTS.md
+memory/
+.stygian-evidence/
+.stygian-verification-results.md
+profiles.yml
+.stygian-index/
+REPO_MAP.md
